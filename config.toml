@@ -1,5 +1,5 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://izy_zola_demo.com"
+base_url = "https://izy-zola.netlify.app/"
 
 # The site title and description; used in feeds by default.
 title = "Site Title"
