@@ -1,4 +1,4 @@
-[submodule "themes/izy_zola"]
-	path = themes/izy_zola
-	url = git@github.com:VV0JC13CH/izy_zola.git
+[submodule "themes/izy-zola"]
+	path = themes/izy-zola
+	url = git@github.com:VV0JC13CH/izy-zola.git
 	branch = main

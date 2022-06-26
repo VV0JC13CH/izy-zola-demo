@@ -1,2 +1,2 @@
-# izy_zola_demo
-Demo Page for izy_zola theme.
+# izy-zola_demo
+Demo Page for izy-zola theme.
