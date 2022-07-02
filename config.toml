@@ -144,3 +144,57 @@ taxonomies = [
 build_search_index = false
 
 
+[extra]
+enable_multilingue = true
+
+[extra.lang]
+items = [
+    { lang = "en", links = [
+        { base_url = "/", name = "English" },
+        { base_url = "/pl", name = "Polish" }
+    ] },
+    { lang = "pl", links = [
+        { base_url = "/", name = "Angielski" },
+        { base_url = "/pl", name = "Polski" }
+    ] }
+]
+
+[extra.navbar]
+title = "xxx"
+items = [
+    { lang = "en", links = [
+        { url = "/assets", name = "Assets"},
+        { url = "/blog", name = "Blog"},
+        { url = "/snippets", name = "Snippets"},
+        { url = "/projects", name = "Projects"},
+    ] },
+    { lang = "pl", links = [
+        { url = "/pl/assets", name = "Assety"},
+        { url = "/pl/blog", name = "Blog"},
+        { url = "/pl/snippets", name = "Kod"},
+        { url = "/pl/projects", name = "Projekty"},
+    ] }
+]
+
+[extra.sidebar]
+enabled = true
+show_categories = true
+position = 'right' # left / right
+custom_items = [
+    { lang = "en", links = [
+        { url = "/markdown", name = "Markdown" },
+        { url = "/blog", name = "Blog" }
+    ] },
+    { lang = "pl", links = [
+        { url = "/pl/markdown", name = "Markdown" },
+        { url = "/pl/blog", name = "Blog" }
+    ] }
+]
+
+[extra.social]
+links = [
+{github = "https://github.com/johndoe"},
+{gitlab = "https://gitlab.com/johndoe"},
+{twitter = "https://twitter.com/johndoe"},
+{linkedin = "https://www.linkedin.com/in/john-doe-b1234567/"},
+]
