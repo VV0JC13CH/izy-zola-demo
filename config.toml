@@ -64,8 +64,11 @@ highlight_code = true
 extra_syntaxes = []
 
 # The theme to use for code highlighting.
-# See below for list of allowed values.
-highlight_theme = "visual-studio-dark"
+highlight_theme = "css"
+highlight_themes_css = [
+  { theme = "visual-studio-dark", filename = "syntax-dark.css" },
+  { theme = "cheerfully-light", filename = "syntax-light.css" },
+]
 
 # When set to "true", emoji aliases translated to their corresponding
 # Unicode emoji equivalent in the rendered Markdown files. (e.g.: :smile: => 😄)
