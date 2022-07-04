@@ -4,6 +4,8 @@ date = 2021-11-12
 [taxonomies]
 categories=["snippets"]
 tags=["markdown", "syntax", "guide"]
+[extra]
+repository  = 'https://github.com/VV0JC13CH/izy-zola/tree/main/content/snippets'
 +++
 
 Spójrzmy prawdzie w oczy: pisanie treści dla sieci jest męczące. Edytory WYSIWYG pomagają złagodzić to zadanie, ale generalnie prowadzą do okropnego kodu lub, co gorsza, brzydkich stron internetowych.

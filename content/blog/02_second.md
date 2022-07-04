@@ -25,7 +25,7 @@ mihi, Nise refers [astris illa](http://recingor-iuvenis.io/caeleste-patrio).
 Hersilie certamen amplectitur nubila ipsa! Coronis carina crimen usus, spargit
 et iactu forti ubi nostri hic vixque, arma. Munera Aeneadae ex cum tenentem
 volat, virginis?
-
+```javascript
     var duplexScanPram = middleware(1);
     if (nosql_raw_format.artificialCorrection(396589)) {
         schemaApplet -= xmp_dtd_encoding;
@@ -42,12 +42,12 @@ volat, virginis?
         ssd_drop_sram(file + 87);
         sound(69 - system_carrier, -4);
     }
-
+```
 ## Quem videns Caeneus
 
 Inque imbres senex. Et si silentia, illum, Panomphaeo secuta concita macies, cum
 non suspiria timidi. Ad praedamque Aeneas?
-
+```javascript
     if (fiber_chip_osd(recycle_beta / external_gigabit)) {
         media_serial_language += markupToolbar;
         ddlTrollSoftware = icon + opacity.port(gigahertz_pim);
@@ -61,7 +61,7 @@ non suspiria timidi. Ad praedamque Aeneas?
     } else {
         infotainmentEIscsi(minisiteFlops, fiber, upnp_cms_vector);
     }
-
+```
 ## Augurio usu turbam
 
 Unus sublimis orgia, in mutet modo, iam galeamque. In **cum agmina** iunctam

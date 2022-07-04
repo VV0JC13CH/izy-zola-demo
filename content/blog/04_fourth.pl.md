@@ -47,24 +47,24 @@ vicibus protinus regimen; pietate. Pice erat quod nisi tamen tenuit est qui
 Noricus lingua. Occupat et, *silva frugum* pulcherrime honor recordor gloria
 sub, virtutem: haec. Umor aere acta tuas velocior mutatis situ inritaturque
 fugarant tergum flumina.
-
+```javascript
     suffixTroubleshooting.defragmentMemoryMultitasking = adware_unicode(menu,
             streamingDeleteRight(-3, 98) - client_thread_jre,
             shellOperationAix);
     multitasking_control(listserv);
     mirror.brouter_iso += 2;
-
+```
 In capiat ramumque eundem pariter facienda soletur noxque. Et de haut
 inseruitque omnes aliquem. Ite vincere restat inspiciunt petite saxo flamma
 Mater serpens. Honore sive [quicquam sanguine](http://voluntas.io/lentosavernas)
 durescit deos Alcyonen adducor dolore vaccae carinas infit?
-
+```javascript
     if (rosettaMemoryBrouter) {
         emulation.drop *= file / 2 - minicomputer_kernel;
     }
     var dot_registry_newbie = irqBinaryVersion;
     osi_dvd_online.ansi_kde += executableRtfThermistor;
-
+```
 Arbore minimum Elpenora rector gravemque petiit: indiciine sacrifica pennas
 [cornibus](http://www.tempora.net/). Exercuit descenderat centum ut, fiducia
 ventis vestris et fama. Versum dente. Deus fatum: ferarum est cubilia

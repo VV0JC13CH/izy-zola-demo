@@ -5,7 +5,7 @@ date = 2021-11-12
 categories=["snippets"]
 tags=["markdown", "syntax", "guide"]
 [extra]
-repository  = 'https://gitlab.com/veloren/veloren'
+repository  = 'https://github.com/VV0JC13CH/izy-zola/tree/main/content/snippets'
 +++
 
 Let's face it: Writing content for the Web is tiresome. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.

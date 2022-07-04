@@ -16,7 +16,7 @@ feature_image = "image_4.png"
 Lorem **markdownum** demens Dardanio addicere concutit. Potentia in raucos
 pennae parum spem, remota virili prioribus ipsa. Cum et Haemoniae poscimus
 melioris pascas leto huc, re. Pignus dicat nigraque pedum pectora spem!
-
+```javascript
     if (2 + mips_servlet) {
         netbios(output, -2);
         capacityHyperKde = ivrVeronicaDock;
@@ -28,7 +28,7 @@ melioris pascas leto huc, re. Pignus dicat nigraque pedum pectora spem!
     web_error_signature.download(address(boot_windows + design,
             media_target_inkjet, -1));
     vector_sip_command(4);
-
+```
 Demissam ungues totidem audistis languor et oborto loco fetus *medias*, aut
 [lacrimas opus](http://www.ablata-deque.io/fraterno). Tota nunc non. Amabam
 indiciique Nestor solum Othrys quem petiere, candidioribus urbis vittis **nec
@@ -47,24 +47,24 @@ vicibus protinus regimen; pietate. Pice erat quod nisi tamen tenuit est qui
 Noricus lingua. Occupat et, *silva frugum* pulcherrime honor recordor gloria
 sub, virtutem: haec. Umor aere acta tuas velocior mutatis situ inritaturque
 fugarant tergum flumina.
-
+```javascript
     suffixTroubleshooting.defragmentMemoryMultitasking = adware_unicode(menu,
             streamingDeleteRight(-3, 98) - client_thread_jre,
             shellOperationAix);
     multitasking_control(listserv);
     mirror.brouter_iso += 2;
-
+```
 In capiat ramumque eundem pariter facienda soletur noxque. Et de haut
 inseruitque omnes aliquem. Ite vincere restat inspiciunt petite saxo flamma
 Mater serpens. Honore sive [quicquam sanguine](http://voluntas.io/lentosavernas)
 durescit deos Alcyonen adducor dolore vaccae carinas infit?
-
+```javascript
     if (rosettaMemoryBrouter) {
         emulation.drop *= file / 2 - minicomputer_kernel;
     }
     var dot_registry_newbie = irqBinaryVersion;
     osi_dvd_online.ansi_kde += executableRtfThermistor;
-
+```
 Arbore minimum Elpenora rector gravemque petiit: indiciine sacrifica pennas
 [cornibus](http://www.tempora.net/). Exercuit descenderat centum ut, fiducia
 ventis vestris et fama. Versum dente. Deus fatum: ferarum est cubilia

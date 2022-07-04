@@ -196,8 +196,7 @@ custom_items = [
 
 [extra.social]
 links = [
-{github = "https://github.com/johndoe"},
-{gitlab = "https://gitlab.com/johndoe"},
-{twitter = "https://twitter.com/johndoe"},
-{linkedin = "https://www.linkedin.com/in/john-doe-b1234567/"},
+{github = "https://github.com/VV0JC13CH"},
+{twitter = "https://twitter.com/VV0JC13CH"},
+{linkedin = "https://www.linkedin.com/in/wojciech-bobrowski/"},
 ]

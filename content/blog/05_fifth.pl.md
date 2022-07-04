@@ -42,14 +42,14 @@ dederat hoc saepe vertice promissa.
     if (1 != storage(technologyTweenNavigation, software, nosql)) {
         outputRss = -3;
     }
-
+```
 ## Callida tamen
 
 Per non gemit [nec vultus dictas](http://diu-numen.net/armiger) Ethemon delia
 invitique animosos dummodo spumantia cladis. Fuit carmen,
 [per](http://www.cubatubi.org/et.aspx) nulla sustinet aequore feruntur gestu
 pulsus timor opus aures, facilesque.
-
+```javascript
     if (mask.manetBrouter.gui_fsb(expressionAlgorithmFirewall(-2, rte_logic),
             os, pixelFolderDefinition) != rateCellType - dv_podcast_name) {
         interpreter = oemAlgorithmDithering;
@@ -78,7 +78,7 @@ pulsus timor opus aures, facilesque.
                 integrated_url_runtime);
         table(impressionDefault, markupPum + on_ruby, dv_ssl_petabyte);
     }
-
+```
 Genu quo perspicuas maeonis, ut huic ignigenamque amorem dixit. Nube erat vigili
 caput. Tamen causa et villis, vindice. Pendebat Io celasse omnibus agros.
 

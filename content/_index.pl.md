@@ -1,5 +1,5 @@
 +++
-title = "{{ izy-zola }}"
+title = "Demo motywu Izy (WIP)"
 description = "Demo motywu izy-zola dla generatora stron statycznych Zola"
 date = 2021-11-12
 sort_by = "weight"

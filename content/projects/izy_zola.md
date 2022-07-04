@@ -7,5 +7,6 @@ categories=["projects"]
 tags=["zola", "terra", "themes"]
 [extra]
 repository = 'https://github.com/VV0JC13CH/izy-zola'
+homepage = 'https://izy-zola.netlify.app'
 +++
 

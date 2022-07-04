@@ -1,6 +1,6 @@
 +++
-title = "{{ izy-zola }}"
-description = "Demo page of izy-zola theme for Zola."
+title = "Izy Theme Demo"
+description = "Demo page of Izy theme for Zola."
 date = 2021-11-12
 sort_by = "weight"
 transparent = true
