@@ -358,7 +358,6 @@ The HTML looks like this:
 Or indent several lines of code by at least four spaces, as in:
 
 ```markdown
-    // Some comments
     line 1 of code
     line 2 of code
     line 3 of code
@@ -366,7 +365,6 @@ Or indent several lines of code by at least four spaces, as in:
 
 The rendered output looks like this:
 
-    // Some comments
     line 1 of code
     line 2 of code
     line 3 of code
