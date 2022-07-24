@@ -3,6 +3,7 @@
   "extends": [
     "config:base"
   ],
+  "ignoreDeps": ["themes/izy-zola"],
   "git-submodules": {
     "enabled": true
   },
