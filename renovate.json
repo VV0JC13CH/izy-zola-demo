@@ -3,13 +3,14 @@
   "extends": [
     "config:base"
   ],
-  "ignoreDeps": ["themes/izy-zola"],
   "git-submodules": {
     "enabled": true
   },
   "packageRules": [
     {
-      "automerge": true
+      "automerge": true,
+      "automergeStrategy": "auto", 
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"]
     }
   ]
 }
