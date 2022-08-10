@@ -150,6 +150,10 @@ build_search_index = false
 [extra]
 enable_multilingue = true
 
+[extra.ga]
+id = "326714308"
+enabled = true
+
 [extra.lang]
 items = [
     { lang = "en", links = [
