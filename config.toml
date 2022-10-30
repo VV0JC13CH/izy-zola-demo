@@ -137,7 +137,7 @@ truncate_content_length = 100
 
 [languages.pl]
 title = "Tytuł Strony"
-description = "Motyw Zola wykonany w Milligram, minimalistycznym frameworku CSS."
+description = "Motyw Zola wykonany przy pomocy Tailwindcss."
 generate_feed = true
 
 taxonomies = [
